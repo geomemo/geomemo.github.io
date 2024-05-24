@@ -21,4 +21,4 @@ Mehmet Girtten is a geographer with a Master's degree, specializing in GIS mappi
 Motivated to tackle mobility management challenges, Mehmet is eager to discuss how his skills can make a difference. Let's connect for a personal conversation.
 
 ## Contact:
-- LinkedIn: [LinkedIn Profile URL]
+- LinkedIn: [https://www.linkedin.com/in/mehmet-girtten-10095954]
