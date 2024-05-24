@@ -1,5 +1,5 @@
 title: Mehmet Girtten
 logo: assets/img/geomeo_globe.png
 #description: "text below logo"
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
