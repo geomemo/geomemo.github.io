@@ -1,5 +1,5 @@
 title:Mehmet Girtten
 logo:/asset/img/geomemo_globe.png
-description: text below logo
+#description: "text below logo"
 show_downloads: true
 theme: jekyll-theme-minimal
