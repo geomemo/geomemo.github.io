@@ -1,4 +1,4 @@
-## Mehmet Girtten - Geographer (M.Sc.) and GIS Expert
+## Geographer (M.Sc.) and GIS Expert
 
 Mehmet Girtten is a geographer with a Master's degree, specializing in GIS mapping and transportation demand management. Currently, he collaborates on the local transportation plan development for a transportation association, focusing on geospatial data analysis and visualization for the 2025 transportation plan.
 
@@ -20,5 +20,6 @@ Mehmet Girtten is a geographer with a Master's degree, specializing in GIS mappi
 ### Let's Connect:
 Motivated to tackle mobility management challenges, Mehmet is eager to discuss how his skills can make a difference. Let's connect for a personal conversation.
 
-### Contact:
-- [LinkedIn:](https://www.linkedin.com/in/mehmet-girtten-10095954)
+### Links:
+- [LinkedIn](https://www.linkedin.com/in/mehmet-girtten-10095954)
+- [Storymap](https://storymaps.arcgis.com/stories/6989b5d477ba4e7e982a863644742c7a)
