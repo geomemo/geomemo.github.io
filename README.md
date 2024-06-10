@@ -23,4 +23,5 @@ Motivated to tackle mobility management challenges, Mehmet is eager to discuss h
 
 ### Links:
 - [LinkedIn](https://www.linkedin.com/in/mehmet-girtten-10095954)
-- [Storymap](https://storymaps.arcgis.com/stories/6989b5d477ba4e7e982a863644742c7a)
+- [ArcGIS Storymap](https://storymaps.arcgis.com/stories/6989b5d477ba4e7e982a863644742c7a)
+- [MS PowerBI](https://youtu.be/PdlpyIzBJA8?si=a_VSvKG2flzOOuf0)
