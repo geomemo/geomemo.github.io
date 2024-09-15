@@ -22,7 +22,7 @@ I am a dedicated Geospatial Analyst with an M.Sc. in Geography, specializing in 
 Motivated to tackle mobility management challenges, Mehmet is eager to discuss how his skills can make a difference. Let's connect for a personal conversation.
 
 ### Links:
-- [LinkedIn Profil](https://www.linkedin.com/in/mehmet-girtten-10095954)
+- [LinkedIn Profile](https://www.linkedin.com/in/mehmet-girtten-10095954)
 - [Data Storytelling: Project "Where to Live" with ArcGIS StoryMap](https://storymaps.arcgis.com/stories/6989b5d477ba4e7e982a863644742c7a)
 - [Data Visualization: Project NVP VRR 2025 with MS PowerBI](https://youtu.be/PdlpyIzBJA8?si=a_VSvKG2flzOOuf0)
 - [Geodata Analysis: Project "Demotrafic" in Streamlit](https://sep24daprojectdemotrafic.streamlit.app/)
