@@ -24,7 +24,7 @@ I am a dedicated Geospatial Analyst with an M.Sc. in Geography, specializing in 
 - Innovative Mobility Solutions
 
 ### Let's Connect:
-Motivated to tackle mobility management challenges, Mehmet is eager to discuss how his skills can make a difference. Let's connect for a personal conversation.
+Motivated to tackle mobility management challenges, I'm  eager to discuss how my skills can make a difference. Let's connect for a personal conversation.
 
 ### Links:
 - [LinkedIn Profile](https://www.linkedin.com/in/mehmet-girtten-10095954)
