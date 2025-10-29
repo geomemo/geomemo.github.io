@@ -1,7 +1,7 @@
 ![](assets/img/1707917524986.jpeg)
 ## Geographer (M.Sc.) and GIS Expert
 
-I am a dedicated Geospatial Analyst with an M.Sc. in Geography, specializing in Geographic Information Systems (GIS) and transportation demand management. Based in Essen, Germany, I have significant experience in GIS mapping, data visualization, and transportation planning. I am passionate about leveraging geospatial data to develop innovative mobility solutions.
+I am a dedicated Geospatial Analyst with an M.Sc. in Geography, specializing in Geographic Information Systems (GIS) and transportation demand management. I have significant experience in GIS mapping, data visualization, and transportation planning. I am passionate about leveraging geospatial data to develop innovative mobility solutions
 
 ### Expertise:
 - **GIS Mapping:** Advanced skills in geographic information systems.
@@ -10,6 +10,11 @@ I am a dedicated Geospatial Analyst with an M.Sc. in Geography, specializing in 
 - **Stakeholder Collaboration:** Proficient in working with diverse groups to develop mobility solutions.
 
 ### Professional Highlights:
+-  **Current Role: Project Coordinator Geodata (DeepUp GmbH, 12/24 – Ongoing)**
+    *   **Leading integrated quality management** for geographic data projects, specializing in network documentation (Netzwerkdokumentation).
+    *   Serving as the **key interface between Customer Managers and data processing teams**, enhancing communication and managing cross-team capacity planning.
+    *   Ensuring the **capture, updating, and quality assurance of cable and pipe networks** within specialized GIS systems, leveraging geographical expertise for data-driven decision-making.
+
 - **Project Collaborator:** Contributing to the local transportation plan's ongoing development.
 - **Previous Roles:** Led projects optimizing car-sharing, pedestrian pathways, and transit stops.
 
