@@ -10,7 +10,7 @@ I am a dedicated Geospatial Analyst with an M.Sc. in Geography, specializing in 
 - **Stakeholder Collaboration:** Proficient in working with diverse groups to develop mobility solutions.
 
 ### Professional Highlights:
--  **Current Role: Project Coordinator Geodata (DeepUp GmbH, 12/24 – Ongoing)**
+-  **Current Role: Project Coordinator Geodata**
     *   **Leading integrated quality management** for geographic data projects, specializing in network documentation (Netzwerkdokumentation).
     *   Serving as the **key interface between Customer Managers and data processing teams**, enhancing communication and managing cross-team capacity planning.
     *   Ensuring the **capture, updating, and quality assurance of cable and pipe networks** within specialized GIS systems, leveraging geographical expertise for data-driven decision-making.
